@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Professional with experience in Full  Stack Development and Data Analysis<br>📚 Currently learning Cloud Computing and Game Development.<br>🎯 Goals: Speak Portuguese and Improve my dancing Skills 🕺
+<p align="left">✨ Professional with experience in Full  Stack Development and Data Analysis<br>📚 Currently learning Cloud Computing and Game Development.</p>
 
 ###
 

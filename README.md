@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Gianfranco and I'm a Systemas and Computer Engineer, from Peru</p>
+<p align="left">My name is Gianfranco and I'm a Systems and Computer Engineer, from Peru</p>
 
 ###
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">I code with</h2>
+## I code with
 
 ###
 

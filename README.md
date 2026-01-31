@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Gianfranco and I'm a Systems and Computer Engineer from Peru</p>
+<p align="left">My name is Gianfranco, and I am a Computer Systems Engineer from Peru</p>
 
 ###
 
